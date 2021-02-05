@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend
+
+
+
+rm -rf node_modules
+rake webpacker:clobber
+yarn add <packages-used>
+yarn --check-files
+RAILS_ENV=... rake webpacker:compile
+

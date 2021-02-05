@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  hour_rate: one
+  start_at: 2021-02-05 01:24:36
+  end_at: 2021-02-05 01:24:36
+  break_duration: 1
+  total_duration: 1
+  comment: MyString
+
+two:
+  hour_rate: two
+  start_at: 2021-02-05 01:24:36
+  end_at: 2021-02-05 01:24:36
+  break_duration: 1
+  total_duration: 1
+  comment: MyString
